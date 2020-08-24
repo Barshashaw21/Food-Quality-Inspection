@@ -1,4 +1,4 @@
-Problem Description
+PROBLEM DESCRIPTION
 
 The food inspection department conducts regular inspection on food quality for various restaurants in the city. It’s a very well documented procedure and over time some good amount of data has been generated out of these inspections.
 
